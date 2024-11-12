@@ -18,6 +18,9 @@ Python, Basic C,C++ , Pytorch, Numpy, Matplotlib, Scikit-Learn, Basic SQL , Data
 🧠 I'm currently learning Convolutional Neural Networks
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+
+
 
 
 
