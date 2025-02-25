@@ -7,7 +7,7 @@ I'm currently a student and a tech enthusiast. I'm intrigued by the wonders of A
 
 
 ## 🛠 Skills
-Python, Basic C,C++ , Pytorch, Numpy, Matplotlib, Scikit-Learn, Basic SQL , Data Preprocessing , Basic NLP, Neural Networks - MLP
+Python, Basic C,C++ , Pytorch, Numpy, Pandas, Matplotlib, Scikit-Learn, Basic SQL , Data Preprocessing , Basic NLP, Neural Networks - MLP
 
 
 
@@ -15,7 +15,7 @@ Python, Basic C,C++ , Pytorch, Numpy, Matplotlib, Scikit-Learn, Basic SQL , Data
 
 ## In Progress 
 
-🧠 I'm currently learning Convolutional Neural Networks
+🧠 I'm currently learning One Shot Learning.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishdhakal2&theme=tokyonight)
