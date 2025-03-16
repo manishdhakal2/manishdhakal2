@@ -21,7 +21,7 @@ Python, Basic C,C++ , Pytorch, Numpy, Pandas, Matplotlib, Scikit-Learn, Basic SQ
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishdhakal2&theme=tokyonight)
 
 
-[![](https://visitcount.itsvg.in/api?id=manishdhakal2&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
+![Codewars](https://github.r2v.ch/codewars?user=ManishDhakal2)
 
 
 
