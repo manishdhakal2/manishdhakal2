@@ -33,7 +33,7 @@ I'm currently a student and a tech enthusiast. I'm intrigued by the wonders of A
 
 ## In Progress 
 
-🧠 I'm currently learning One Shot Learning.
+🧠 I'm currently learning FastAPI.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishdhakal2&theme=tokyonight)
