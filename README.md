@@ -15,7 +15,7 @@ Python, Basic C,C++ , Pytorch, Numpy, Pandas, Matplotlib, Scikit-Learn, Basic SQ
 
 ## In Progress 
 
-🧠 I'm currently learning One Shot Learning.
+🧠 I'm currently learning FastAPI.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manishdhakal2&theme=tokyonight)
